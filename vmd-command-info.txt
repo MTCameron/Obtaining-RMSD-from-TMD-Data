@@ -1,0 +1,2 @@
+This is the code I should use for vmd from the command line:
+vmd -dispdev text -e my_rmsd.tcl -eofexit
